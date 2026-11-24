@@ -6,6 +6,13 @@
  **Assignment:** Week 4  
  **Project Type:** Academic E-Library and Examination Management System  
  **Institution:** Babcock University  
+ **Team:**
+ Name                              Matric No.
+ Fatunase Olamide(Group Leader)    24/1958
+ Fadeyi Omolade Oreoluwa Elizabeth 25/1452
+ Ezirim Noble Akachukwu            25/0561
+ Ifeadime Goodluck Eboma           25/0024
+ Cousin Joseph                     25/1611
 **1\. Introduction**  
 **1.1 Background**
 
